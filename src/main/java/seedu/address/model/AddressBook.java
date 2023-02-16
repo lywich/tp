@@ -75,6 +75,13 @@ public class AddressBook implements ReadOnlyAddressBook {
     }
 
     /**
+     * Sorts the list by name.
+     */
+    public void sortPerson() {
+        persons.sort();
+    }
+
+    /**
      * Replaces the given person {@code target} in the list with {@code editedPerson}.
      * {@code target} must exist in the address book.
      * The person identity of {@code editedPerson} must not be the same as another existing person in the address book.

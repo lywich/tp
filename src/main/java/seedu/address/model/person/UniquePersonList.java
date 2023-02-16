@@ -49,6 +49,13 @@ public class UniquePersonList implements Iterable<Person> {
     }
 
     /**
+     * Sorts the list by name.
+     */
+    public void sort() {
+        FXCollections.sort(internalList, Person::compareTo);
+    }
+
+    /**
      * Replaces the person {@code target} in the list with {@code editedPerson}.
      * {@code target} must exist in the list.
      * The person identity of {@code editedPerson} must not be the same as another existing person in the list.
