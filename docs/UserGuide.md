@@ -102,7 +102,7 @@ Format: `help`
 Adds a task to the address book. There are 3 types of tasks. `SimpleTask`, `Deadline` and `Event`.
 For `Deadline` and `Event` date(s) are required.
 
-Dates should be in the format `YYYY-MM-DD HHMM`. ([What is a valid Date?](#42--what-is-a-valid-date-br))
+Dates should be in the format `YYYY-MM-DD HHMM`. ([What is a valid Date?](#what-is-a-valid-date-br))
 
 By default, effort level is 24. ([What is an effort level?](#q3--what-is-an-effort-level-br))
 
@@ -281,7 +281,7 @@ _Details coming soon ..._
 ### Q1: How do I transfer my data to another Computer?<br>
 **A**: Install the app in the other computer and overwrite the empty data file it creates with the file that contains the data of your previous AddressBook home folder.
 
-### 4.2: What is a valid Date?<br>
+### What is a valid Date?<br>
 **A**: A valid Date must be in the format of `YYYY-MM-DD HHMM` such as `2023-07-13 1800` (13 July 2023, 6PM). A valid Date must have a valid time. A minimum of 4 characters must be supplied and only a maximum of 4 character will be parsed
   e.g. `2023-07-13 180` is invalid and `2023-07-13 18000000000` is understood as `2023-07-13 1800`
 
