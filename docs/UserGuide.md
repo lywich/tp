@@ -22,7 +22,6 @@ Clock-Work is a **desktop app for managing tasks, optimized for use via a Comman
     * [3.1 saving the data](#31-saving-the-data)
     * [3.2 editing the data](#32-editing-the-data-file)
   * [4. FAQ](#4-faq)
-    * [4.1 ](#41-how-do-i-transfer-my-data-to-another-computer-br)
   * [5. Command summary](#5-command-summary)
 
 --------------------------------------------------------------------------------------------------------------------
@@ -103,11 +102,11 @@ Format: `help`
 Adds a task to the address book. There are 3 types of tasks. `SimpleTask`, `Deadline` and `Event`.
 For `Deadline` and `Event` date(s) are required.
 
-Dates should be in the format `YYYY-MM-DD HHMM`. ([4.2 What is a valid Date?](#42-what-is-a-valid-date))
+Dates should be in the format `YYYY-MM-DD HHMM`. ([4.2 What is a valid Date?](#q2--what-is-a-valid-date))
 
-By default, effort level is 24. ([Q3: What is an effort level?](#q3--what-is-an-effort-level-br))
+By default, effort level is 24. ([Q3: What is an effort level?](#q3--what-is-an-effort-level))
 
-A Task must have a description.([What is a valid Description?](#q4--what-is-a-valid-description-br))
+A Task must have a description.([What is a valid Description?](#q4--what-is-a-valid-description))
 
 Format:
 
@@ -279,17 +278,17 @@ _Details coming soon ..._
 
 ## 4. FAQ
 
-### 4.1 How do I transfer my data to another Computer?
+### Q1: How do I transfer my data to another Computer?
 **A**: Install the app in the other computer and overwrite the empty data file it creates with the file that contains the data of your previous AddressBook home folder.
 
-### 4.2 What is a valid Date?
+### Q2: What is a valid Date?
 **A**: A valid Date must be in the format of `YYYY-MM-DD HHMM` such as `2023-07-13 1800` (13 July 2023, 6PM). A valid Date must have a valid time. A minimum of 4 characters must be supplied and only a maximum of 4 character will be parsed
   e.g. `2023-07-13 180` is invalid and `2023-07-13 18000000000` is understood as `2023-07-13 1800`
 
-### Q3: What is an effort level?<br>
+### Q3: What is an effort level?
 **A**: [_More details to come_]
 
-### Q4: What is a valid Description?<br>
+### Q4: What is a valid Description?
 **A**: A valid Description is a text input that has at least one character.
 
 
