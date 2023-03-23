@@ -278,10 +278,10 @@ _Details coming soon ..._
 
 ## 4. FAQ
 
-### Q1: How do I transfer my data to another Computer?<br>
+### Q1 How do I transfer my data to another Computer?<br>
 **A**: Install the app in the other computer and overwrite the empty data file it creates with the file that contains the data of your previous AddressBook home folder.
 
-### 4.2: What is a valid Date?<br>
+### 4.2 What is a valid Date?<br>
 **A**: A valid Date must be in the format of `YYYY-MM-DD HHMM` such as `2023-07-13 1800` (13 July 2023, 6PM). A valid Date must have a valid time. A minimum of 4 characters must be supplied and only a maximum of 4 character will be parsed
   e.g. `2023-07-13 180` is invalid and `2023-07-13 18000000000` is understood as `2023-07-13 1800`
 
