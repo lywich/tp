@@ -22,6 +22,7 @@ Clock-Work is a **desktop app for managing tasks, optimized for use via a Comman
     * [3.1 saving the data](#31-saving-the-data)
     * [3.2 editing the data](#32-editing-the-data-file)
   * [4. FAQ](#4-faq)
+    * [4.1 ](#41-how-do-i-transfer-my-data-to-another-computer-br)
   * [5. Command summary](#5-command-summary)
 
 --------------------------------------------------------------------------------------------------------------------
@@ -102,7 +103,7 @@ Format: `help`
 Adds a task to the address book. There are 3 types of tasks. `SimpleTask`, `Deadline` and `Event`.
 For `Deadline` and `Event` date(s) are required.
 
-Dates should be in the format `YYYY-MM-DD HHMM`. ([4.2 What is a valid Date?](#42--what-is-a-valid-date-br))
+Dates should be in the format `YYYY-MM-DD HHMM`. ([4.2 What is a valid Date?](#42-what-is-a-valid-date-br))
 
 By default, effort level is 24. ([Q3: What is an effort level?](#q3--what-is-an-effort-level-br))
 
@@ -278,7 +279,7 @@ _Details coming soon ..._
 
 ## 4. FAQ
 
-### Q1 How do I transfer my data to another Computer?<br>
+### 4.1 How do I transfer my data to another Computer?<br>
 **A**: Install the app in the other computer and overwrite the empty data file it creates with the file that contains the data of your previous AddressBook home folder.
 
 ### 4.2 What is a valid Date?<br>
