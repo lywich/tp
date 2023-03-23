@@ -102,11 +102,11 @@ Format: `help`
 Adds a task to the address book. There are 3 types of tasks. `SimpleTask`, `Deadline` and `Event`.
 For `Deadline` and `Event` date(s) are required.
 
-Dates should be in the format `YYYY-MM-DD HHMM`. ([4.2 What is a valid Date?](#q2--what-is-a-valid-date))
+Dates should be in the format `YYYY-MM-DD HHMM`. ([4.2 What is a valid Date?](#q2-what-is-a-valid-date))
 
-By default, effort level is 24. ([Q3: What is an effort level?](#q3--what-is-an-effort-level))
+By default, effort level is 24. ([Q3: What is an effort level?](#q3-what-is-an-effort-level))
 
-A Task must have a description.([What is a valid Description?](#q4--what-is-a-valid-description))
+A Task must have a description.([What is a valid Description?](#q4-what-is-a-valid-description))
 
 Format:
 
