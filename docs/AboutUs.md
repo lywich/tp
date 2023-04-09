@@ -28,7 +28,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[portfolio](team/lywich.md)]
 
 * Role: Developer
-* Responsibilities: Refactoring + Scheduling + Integration
+* Responsibilities: Refactoring AB3, Scheduling milestones/Releases/Github issues management and implementation of Sortcommand + tag color codes.
 
 ### Hao Zeyu
 
